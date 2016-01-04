@@ -1,31 +1,16 @@
 # Resoluções de Aprendizado 2016
 
 
-## Voltar a estudar inglês (0/1)
+## Estudar inglês (0/1)
 
 -------------------
 
-
-## Ler 3 Livros sobre design (0/3)
-
--------------------
-
-
-## Ler 3 Livros sobre business (0/3)
-
--------------------
-
-
-## Ler 3 Livros sobre desenvolvimento (0/3)
+## Ler 9 Livros sobre desenvolvimento (0/3)
 
 -------------------
 
 
 ## Ler 366 artigos (3/366)
-
-1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
-2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
-3. http://blog.plataformatec.com.br/2014/09/writing-assertive-code-with-elixir/
 
 -------------------
 
@@ -36,8 +21,6 @@
 
 
 ## Ver 24 palestras no youtube (1/24)
-
-1. https://www.youtube.com/watch?v=3VoFq5lng_4
 
 -------------------
 
@@ -57,8 +40,7 @@
 -------------------
 
 
-## Contribuir mais com o open source do que em 2015 (#pull requests) (1/27)
-1. https://github.com/lucasmazza/language-elixir/pull/26
+## Contribuir mais com o open sourceem 2016 (#pull requests)
 
 
 -------------------
