@@ -5,7 +5,15 @@
 
 -------------------
 
-## Ler 9 Livros sobre desenvolvimento (0/3)
+## Estudar Angular (0/3)
+
+-------------------
+
+## Estudar PHP (0/3)
+
+-------------------
+
+## Ler 9 Livros sobre desenvolvimento (1/9)
 
 -------------------
 
